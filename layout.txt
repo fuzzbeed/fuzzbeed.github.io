@@ -1,0 +1,14 @@
+nav bar 
+nav bar 2(static)
+news bar
+quiz logo
+title
+description
+date posted
+autor + jump to comments
+social media
+**article(question,credit,answers)
+social media
+comments
+72 random articla
+jump to top
