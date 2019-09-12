@@ -24,7 +24,7 @@
 
 .question h1{
   margin: 5%;
-  font-size: 64px;
+  font-size: 3.5vw;
   color: white;
   font-family: 'Montserrat', sans-serif;
 }
@@ -50,6 +50,7 @@
   color: white;
   font-family: 'Montserrat', sans-serif;
   line-height: 130%;
+
 }
 
 .answer{
@@ -60,6 +61,7 @@
   margin: 2%;
   min-height: 60px;
   height: 90%;
+  overflow-wrap: break-word;
 }
 
 #ended{
